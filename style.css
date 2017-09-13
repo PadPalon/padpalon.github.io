@@ -1,3 +1,16 @@
 nav {
     margin-bottom: 10px;
 }
+
+@media only screen and (min-width: 580px) {
+    div.navbar-div {
+        padding-left: 15px!important;
+        padding-right: 15px!important;
+    }
+}
+
+@media only screen and (max-width: 350px) {
+    .navbar-expand .navbar-nav {
+        flex-direction: column;
+    }
+}
