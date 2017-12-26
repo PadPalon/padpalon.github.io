@@ -2,6 +2,10 @@ nav {
     margin-bottom: 10px;
 }
 
+div.navbar-div a.navbar-brand {
+    margin-bottom: auto;
+}
+
 @media only screen and (min-width: 580px) {
     div.navbar-div {
         padding-left: 15px!important;
@@ -9,12 +13,26 @@ nav {
     }
 }
 
-@media only screen and (max-width: 350px) {
+@media (max-width: 500px) {
+    .navbar-nav {
+        float: right;
+        text-align: right;
+    }
     .navbar-expand .navbar-nav {
         flex-direction: column;
+    }
+    a.navbar-brand small {
+        display: block;
+    }
+    a.navbar-brand span.navbar-brand-divider {
+        display: none;
     }
 }
 
 article {
     margin-bottom: 15px;
+}
+
+article.card p.card-header {
+    padding: 0;
 }
