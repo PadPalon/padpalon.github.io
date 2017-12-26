@@ -8,28 +8,114 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css"
           integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+            integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"
+            integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh"
+            crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"
+            integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ"
+            crossorigin="anonymous"></script>
 </head>
 <body>
     <nav class="navbar navbar-expand navbar-dark bg-dark">
         <div class="container navbar-div">
-            <a class="navbar-brand" href="index.html">PadPalon</a>
+            <a class="navbar-brand" href="index.html">PadPalon - Music</a>
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
                     <a class="nav-link" href="index.html">Home</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link disabled" href="music.html">Music</a>
+                    <a class="nav-link" href="music.html">Music</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link disabled" href="programming.html">Programming</a>
+                    <a class="nav-link" href="programming.html">Programming</a>
                 </li>
             </ul>
         </div>
     </nav>
 
     <div class="container">
-        <h2>Music</h2>
-        <p>WIP</p>
+        <article class="card">
+            <p class="card-header">
+                <a class="btn btn-link" data-toggle="collapse" href="#collapseMorrigu" aria-expanded="false" aria-controls="collapseMorrigu">
+                    Morrigu
+                </a>
+            </p>
+            <div class="collapse show" id="collapseMorrigu">
+                <div class="card card-body">
+                    <p>
+                        I've been playing guitar in the band <em>Morrigu</em> since 2016. We are currently recording a new record.
+                        You can find us on <a href="https://www.facebook.com/morriguofficial/">Facebook</a> or our
+                        <a href="http://www.morrigu.ch/">website</a>. There's also our
+                        <a href="https://www.metal-archives.com/bands/Morrigu/14009">Metal Archives page</a>.
+                    </p>
+                    <p>
+                        Here's a trailer for our new album:
+                    </p>
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe src="https://www.youtube.com/embed/FNQD5K-oe8A?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <article class="card">
+            <p class="card-header">
+                <a class="btn btn-link" data-toggle="collapse" href="#collapseNaN" aria-expanded="false" aria-controls="collapseNaN">
+                    Not A Number
+                </a>
+            </p>
+            <div class="collapse show" id="collapseNaN">
+                <div class="card card-body">
+                    <p>
+                        I'm currently in the process of setting up a new Band called <em>Not A Number</em>.
+                        The music is probably closest to some kind of Doom Metal, with some modern stuff trown in.
+                        I don't have any listening examples available right now.
+                    </p>
+                </div>
+            </div>
+        </article>
+        <article class="card">
+            <p class="card-header">
+                <a class="btn btn-link" data-toggle="collapse" href="#collapsePersonal" aria-expanded="false" aria-controls="collapsePersonal">
+                    Personal
+                </a>
+            </p>
+            <div class="collapse show" id="collapsePersonal">
+                <div class="card card-body">
+                    <p>
+                        I've been making my own music for quite a few years now. Most of it has only ever been heard
+                        by me. But I have released some of it over on my <a href="https://soundcloud.com/padpalon">SoundCloud</a>.
+                        There's my shitty beginnings, some fun ideas and a few clips I quite like. I'll curate some of
+                        the better ones in the future.
+                    </p>
+                </div>
+            </div>
+        </article>
+        <article class="card">
+            <p class="card-header">
+                <a class="btn btn-link" data-toggle="collapse" href="#collapseHWM" aria-expanded="false" aria-controls="collapseHWM">
+                    Hate Within Me
+                </a>
+            </p>
+            <div class="collapse show" id="collapseHWM">
+                <div class="card card-body">
+                    <p>
+                        I used to play in the band <em>Hate Within Me</em> before we called it quits. It was my first
+                        "real" metal band and playing with those guys taught me a lot. You can find our old stuff over
+                        at our inactive <a href="">Facebook page</a>.
+                    </p>
+                    <p>
+                        You can watch one of our early shows here:
+                    </p>
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe src="https://www.youtube.com/embed/kxLnf3pVjv4?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </article>
     </div>
 </body>
 </html>

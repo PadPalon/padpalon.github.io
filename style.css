@@ -14,3 +14,7 @@ nav {
         flex-direction: column;
     }
 }
+
+article {
+    margin-bottom: 15px;
+}
