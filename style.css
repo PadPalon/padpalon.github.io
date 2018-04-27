@@ -33,6 +33,10 @@ article {
     margin-bottom: 15px;
 }
 
+.card-body {
+    padding-bottom: 0;
+}
+
 article.card p.card-header {
     padding: 0;
 }
