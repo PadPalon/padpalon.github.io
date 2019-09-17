@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+<img src="/images/profile.jpg" width="35%" style="float: right"/>
+
 My name is Luca Neukom, although I go by the handle PadPalon or MellowMelon on the internet.
 
 I've been using computers for a long, long time. I don't even remember for certain when I

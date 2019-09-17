@@ -16,7 +16,7 @@
 title: PadPalon
 email: luca.neukom@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This page will serve me as an outlet for information on some of my projects. On here I will only publish the things I
+  This page will serve as an outlet for information on some of my projects. On here I will only publish the things I
   find to actually have some value.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://padpalon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -45,6 +45,14 @@ collections:
   games:
     output: true
     permalink: /games/:path/
+    sort_by: order
   music:
     output: true
     permalink: /music/:path/
+    sort_by: order
+  jobs:
+    output: true
+    permalink: /jobs/:path/
+    sort_by: order
+
+show_excerpts: true
