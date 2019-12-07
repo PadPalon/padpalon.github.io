@@ -54,5 +54,7 @@ collections:
     output: true
     permalink: /jobs/:path/
     sort_by: order
+  cds:
+    sort_by: artist
 
 show_excerpts: true
