@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Heroes Of The Storm
-order: 20
+order: 30
 ---
 I like Heroes Of The Storm. Like, a lot. It's the first game where I really got into the
 esports scene and wanted to improve my gameplay to a more advanced level. Watching streams and
