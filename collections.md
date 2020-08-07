@@ -4,9 +4,13 @@ title: Collections
 permalink: /collections/
 ---
 ## CDs
-A list of CDs I own. Very WIP. Currently added everything bought in: 2019.
+A list of CDs I own. Very WIP, there's loads of these things lying around.
 
-{% assign cds = site.cds | sort: 'artist' %}
+{% assign cds_by_year = site.cds | group_by: 'year' | sort: 'name desc' %}
+{% for year in cds_by_year %}
+**{{ year.name }}**
+{% assign cds = year.items | sort: 'artist' %}
 {% for cd in cds %}
-* **{{ cd.title }}** by *{{ cd.artist }}* in {{ cd.year }}
+* **{{ cd.title }}** by *{{ cd.artist }}*
+{% endfor %}
 {% endfor %}
