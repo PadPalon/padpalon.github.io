@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "AI - Raised stakes"
-categories: [development, school, ai, computer science]
+categories: [computer science]
+tags: [school, ai]
 ---
 
 I have recently read the two articles **Cognitive Orthoses: Toward Human-Centered AI** *by Kenneth M. Ford, Patrick J.
