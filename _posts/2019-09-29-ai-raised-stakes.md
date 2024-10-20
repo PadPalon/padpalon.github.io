@@ -9,6 +9,8 @@ I have recently read the two articles **Cognitive Orthoses: Toward Human-Centere
 Hayes, Clark Glymour, James Allen* and **The AI Revolution: The Road to Superintelligence** *by Tim Urban* as a study
 assignment. In this blog post, I will note down my thoughts and questions about these articles.
 
+<!--more-->
+
 Both articles generally try to answer the question: "*Will AI help humanity as a whole? Or be its doom?*" The first
 article takes the stance, that AI, like so many other technological advancements, will enhance the life of humans around
 the globe. Not as a replacement to humans, but as an assisting tool, hence the use of *Orthoses* in the title.

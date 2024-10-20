@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NeverRest
-order: 60
+order: 10
 ---
 
 My first ever band was called NeverRest. My brother was in it as well. There is

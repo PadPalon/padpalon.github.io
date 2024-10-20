@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Discovery
-order: 10
+order: 50
 ---
 A more focused project, I tried to write and produce a Synthwave EP. Working almost exclusively
 with synthesizers instead of sampling was really cool. I think only the drums, the guitar in the last

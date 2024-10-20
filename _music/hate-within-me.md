@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hate Within Me
-order: 50
+order: 20
 ---
 I used to play in the band **Hate Within Me** before we called it quits. It was my first
 "real" metal band and playing with those guys taught me a lot. You can find our old stuff over

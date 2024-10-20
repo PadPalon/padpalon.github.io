@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enigma I
-order: 20
+order: 40
 ---
 Starting in mid-2018 I decided to start working on an album containing some of my songs and ideas
 from the last few years. It will be a weird mix of atmospheric, electronic and orchestral songs,

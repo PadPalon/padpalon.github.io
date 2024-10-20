@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="/images/profile.jpg" width="35%" style="float: right"/>
+<img src="/images/profile.jpg" width="40%" style="float: right; margin: 0 0 25px 25px;"/>
 
 My name is Luca Neukom, although I go by the handle PadPalon or MellowMelon on
 the internet. My pronouns are he/him.
@@ -23,8 +23,8 @@ I've been making my own music for quite a few years now, be it on guitar or
 entirely digital. Most of it has only ever been heard by me, but I have
 released some of it over on my [SoundCloud](https://soundcloud.com/padpalon).
 There's my shitty beginnings, some fun ideas and a few clips I quite like. For
-my proper releases, check out my [Bandcamp](https://lucaneukom.bandcamp.com/).
-I've also been active in a few bands, best go check those out over on [this
+my proper releases, check out my [Bandcamp](https://lucaneukom.bandcamp.com/) or [Faircamp](https://simonrepp.com/faircamp/).
+I've also been active in a few bands and other projects, best go check those out over on [this
 page]({{site.url}}/music).
 
 ## Gaming
