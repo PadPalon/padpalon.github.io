@@ -1,0 +1,54 @@
+<style>
+    .toggle-indicator {
+        font-family: monospace;
+        vertical-align: top;
+        display: inline-block;
+        width: 20px;
+    }
+
+    .toggle-title {
+        margin-left: -20px;
+    }
+</style>
+
+<script>
+    const toggledAttributeName = 'data-toggled'
+    const toggleTitleClass = 'toggle-title'
+    const toggleIndicatorClass = 'toggle-indicator'
+    const toggleEnabledClass = 'toggle-enabled'
+
+    const toggleCategory = element => {
+        const wasHidden = element.getAttribute(toggledAttributeName) === 'true'
+        if (!wasHidden) {
+            element.setAttribute(toggledAttributeName, true)
+        } else {
+            element.setAttribute(toggledAttributeName, false)
+        }
+        for (const child of element.children) {
+            if (child.classList.contains(toggleTitleClass)) {
+                const indicators = element.getElementsByClassName(toggleIndicatorClass)
+                for (const indicator of indicators) {
+                    indicator.innerHTML = wasHidden ? '-' : '+'
+                }
+            } else {
+                child.style.display = wasHidden ? '' : 'none'
+            }
+        }
+    }
+
+    window.addEventListener('DOMContentLoaded', () => {
+        const toggleDivs = document.getElementsByClassName(toggleEnabledClass)
+        for (const toggleDiv of toggleDivs) {
+            toggleDiv.onclick = event => {
+                event.stopPropagation()
+                toggleCategory(toggleDiv)
+            }
+            const toggleTitle = toggleDiv.children[0]
+            toggleTitle.classList.add(toggleTitleClass)
+            const toggleIndicator = document.createElement('span')
+            toggleIndicator.classList.add(toggleIndicatorClass)
+            toggleIndicator.innerHTML = '-'
+            toggleTitle.insertBefore(toggleIndicator, toggleTitle.firstChild)
+        }
+    })
+</script>
