@@ -22,8 +22,10 @@ collections:
     output: true
     permalink: /jobs/:path/
     sort_by: order
-  cds:
-    sort_by: artist
+  tabletop:
+    output: true
+    permalink: /tabletop/:path/
+    sort_by: order
 
 show_excerpts: true
 excerpt_separator: <!--more-->
@@ -31,9 +33,10 @@ excerpt_separator: <!--more-->
 header_pages:
   - about.md
   - articles.md
-  - career.md
-  - gaming.md
   - music.md
+  - tabletop.md
+  - gaming.md
+  - career.md
   - collections.md
 
 minima:
