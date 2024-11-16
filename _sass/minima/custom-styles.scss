@@ -1,0 +1,10 @@
+.site-header {
+  border-top: 0;
+  border-bottom: 0;
+}
+
+.page-link:not(:first-child)::before {
+    content: "|";
+    margin-left: -10px;
+    margin-right: 10px;
+}

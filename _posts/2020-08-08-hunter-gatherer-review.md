@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Review: Avatar - Hunter Gatherer"
-categories: [music]
-tags: [metal, avatar, hunter gatherer, review]
+categories: [music, review]
+tags: [metal, avatar, hunter gatherer]
 ---
 
 I have never written a public review of anything, except for a few short recommendations on Steam. But, the new album *Hunter Gatherer* by **Avatar** is so good, I feel compelled to tell the world about it. While I am a musician and consider myself relatively knowledgeable on all things Metal, I haven't got any experience writing reviews or expressing my thoughts about music in a way that makes sense to other people and is enjoyable to read. Just ... consider yourself warned, this is an experiment.
