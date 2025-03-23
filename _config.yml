@@ -33,11 +33,11 @@ excerpt_separator: <!--more-->
 header_pages:
   - about.md
   - articles.md
+  - the-hoard.md
   - music.md
   - tabletop.md
   - gaming.md
   - career.md
-  - collections.md
 
 minima:
   social_links:
