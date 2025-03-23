@@ -49,6 +49,9 @@
             toggleIndicator.classList.add(toggleIndicatorClass)
             toggleIndicator.innerHTML = '-'
             toggleTitle.insertBefore(toggleIndicator, toggleTitle.firstChild)
+            if (toggleDiv.getAttribute(toggledAttributeName) === 'false') {
+                toggleCategory(toggleDiv)
+            }
         }
     })
 </script>
