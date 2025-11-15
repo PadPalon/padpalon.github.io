@@ -13,5 +13,6 @@ I'll try to group these in some way, but this might very well become a mess quic
 <ul>
     {% include post_reference.html post="2025-03-23-favourite-youtube-content.md" %}
     {% include post_reference.html post="2025-05-11-some-youtube-content.md" %}
+    {% include post_reference.html post="2025-11-15-another-haul-of-videos.md" %}
 </ul>
 </div>
