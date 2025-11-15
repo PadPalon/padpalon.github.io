@@ -3,8 +3,10 @@
   border-bottom: 0;
 }
 
-.page-link:not(:first-child)::before {
-    content: "|";
-    margin-left: -10px;
-    margin-right: 10px;
+@media screen and (min-width: 600px) {
+  .page-link:not(:first-child)::before {
+      content: "|";
+      margin-left: -10px;
+      margin-right: 10px;
+  }
 }
