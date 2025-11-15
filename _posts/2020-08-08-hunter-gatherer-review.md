@@ -35,7 +35,7 @@ This is pretty much the only song I don't really feel. I like the intro, I like 
 
 **Scream Until You Wake**
 
-While listening to the pre-release stream with my brother I called this chorus "Anime Intro by Avatar". I stand by that, and I love it. *Scream Until You Wake* just pumps me up, even if the lyrics are quite a bit darker than the song makes me feel.
+While listening to the pre-release stream with my sibling I called this chorus "Anime Intro by Avatar". I stand by that, and I love it. *Scream Until You Wake* just pumps me up, even if the lyrics are quite a bit darker than the song makes me feel.
 
 Also, did I tell you that I adore *Avatar*'s lead guitars already? Awesome.
 

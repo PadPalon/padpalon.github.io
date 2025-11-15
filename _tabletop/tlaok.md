@@ -10,7 +10,7 @@ they released the City States faction, which are kinda gearpunk ancient greeks, 
 I had a box of them at home.
 
 It is a super fun game, but I don't play enough to really get the rather expansive ruleset into my brain, so it's
-also still quite stressful to play. The rules are free, so if you are intererested, check them out [here](https://www.para-bellum.com/rules-and-faq/).
+also still quite stressful to play. The rules are free, so if you are interested, check them out [here](https://www.para-bellum.com/rules-and-faq/).
 
 I currently own enough minis to make about 1 1/2 City States lists, so I don't have much choice during list building,
 but we're getting there! I'd say about 3/4 are even painted!
