@@ -38,6 +38,7 @@ header_pages:
   - tabletop.md
   - gaming.md
   - career.md
+  - links.md
 
 minima:
   social_links:
