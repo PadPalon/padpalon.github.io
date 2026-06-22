@@ -4,7 +4,7 @@ title:  "Steam Next Fest June 2026"
 categories: [gaming, review]
 tags: [steam-next-fest]
 ---
-It's been another iteration of There Are Too Many God Damn Demoes, but this time
+It's been another iteration of There Are Too Many God Damn Demos, but this time
 I've actually played all of the one's I've downloaded.
 
 Here are my thoughts about the 39 demos I've played.
