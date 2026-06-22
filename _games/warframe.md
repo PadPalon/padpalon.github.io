@@ -10,4 +10,4 @@ as an incentive to try it again. Thanks to having made a friend that was very mu
 it stuck. After Destiny kept disappointing me, the story, gameplay and freedom, on what to do
 in the game, was exactly what I wanted.
 
-Also, Keith Power is an absolute genius! The music in Warframe is excellent, and way underdiscussed outside of the community.
+Also, Keith Power and Matthew Chalmers are absolute geniuses! The music in Warframe is excellent, and way underdiscussed outside of the community.
