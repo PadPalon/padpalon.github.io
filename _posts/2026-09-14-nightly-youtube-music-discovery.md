@@ -40,6 +40,18 @@ Curveball! Love me some melancholic folk.
 
 2000s core says hello.
 
+# [*Scythe Of Sorrow - B.P.D (Broken, Psycho, Dead)*](https://www.youtube.com/watch?v=X9TGUUlMksw)
+
+Do you miss Children Of Bodom? I miss Children Of Bodom.
+
+# [*Sunmancer - Relics*](https://www.youtube.com/watch?v=Iq7LxS0F2U0)
+
+Fast, heavy, melodic, very nice.
+
+# [*Meter - Dreaming*](https://www.youtube.com/watch?v=QWdvDN-u9Xw)
+
+This has some sweet riffage, and then gets a bit moody with the vocals. Spoken vocals almost give me Linkin Park vibes?
+
 ---
 
 Next few bands are I know very well, but the videos are new to me.
