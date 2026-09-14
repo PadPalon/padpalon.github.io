@@ -9,7 +9,7 @@ Doing another one of these, because ... it's my blog and I want to get into writ
 
 # [*Innuendo Studios*](https://www.youtube.com/@InnuendoStudios) by Ian Danskin
 
-One of the most important political essay channels for the current age. [The Alt-Right Playbook](https://youtu.be/4xGawJIseNY?si=8NQQcJyD2gzo5Bmm)
+One of the most important political essay channels for the current age. [The Alt-Right Playbook](https://youtu.be/4xGawJIseNY)
 is pretty much mandatory viewing if you're politically active or just present in online spaces, in my opinion.
 
 At time of writing, Ian Danskin announced his indefinite hiatus due to financial reasons a few days ago. The fact that he can not make
